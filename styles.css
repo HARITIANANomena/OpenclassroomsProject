@@ -5,3 +5,8 @@ h1 {
 .lie {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.sec1 {
+    width: auto;
+    background-color: azure;
+}
