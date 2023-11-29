@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 h1 {
     color: blue;
 }
@@ -10,12 +9,13 @@ h1 {
 .sec1 {
     width: auto;
     background-color: azure;
-=======
+}
+
 h1 {
     color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .lie {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
->>>>>>> c40c68063ecd55e1c9bf7b05552b26850a63912d
 }
